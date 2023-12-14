@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790327956649",
+    "project_id": "bloomy-18881",
+    "storage_bucket": "bloomy-18881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790327956649:android:ef5dff6060f5ad1e3645b8",
+        "android_client_info": {
+          "package_name": "com.example.bloomy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJgajZaSgtXBNZiR0DQMMAQ1yLl6mbObg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
